@@ -1,11 +1,10 @@
-### Hi there 👋
+### Anahi Candia Samudio - Analista 👋
 
 <!--
 **AnahiCandia/AnahiCandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on Digitization of processes and digital transformation projects
-- 🌱 I’m currently learning about web development, data analytics and the cloud
+Me encanta conocer y digitalizar procesos empresariales, además de visualizar informaciones que proporcionan respuestas estrategicas de negocio.
 
 ### where to find me
 - [linkedin](https://www.linkedin.com/in/anahi-candia-samudio-b32309194/)
