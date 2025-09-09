@@ -1,6 +1,6 @@
 
 
-# ¡Hola! ### soy Anahi Candia Samudio - Analista 👋
+# ¡Hola! ### soy Anahi Candia Samudio  👋
 
 ### where to find me
 - [linkedin](https://www.linkedin.com/in/anahi-candia-samudio-b32309194/)
