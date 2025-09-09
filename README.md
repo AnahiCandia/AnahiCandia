@@ -36,4 +36,3 @@ Estoy abierta a nuevos aprendizajes, proyectos o ideas. Si compartimos intereses
 
 ---
 
-<sub>Perfil diseñado con enfoque profesional y muchas ganas de seguir creciendo.</sub>
